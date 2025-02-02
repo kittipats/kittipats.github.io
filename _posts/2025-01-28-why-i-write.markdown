@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "Why I Write"
+title:  "Why I Write (Again)"
 date:   2025-01-28 21:05:00 +0800
 categories: blog
-excerpt_separator: <!--more-->
 ---
 > There is, in reality, a virtual me. This virtual me will not age, and will continue to play the piano for years, decades, centuries. Will there be humans then? Will the squids that will conquer the earth after humanity listen to me? What will pianos be to them? What about music? Will there be empathy there?
 *จาก Kagami โดย Ryuichi Sakamoto, 2023*
-<!--more-->
 
 ก่อน Sakamoto เสีย เขาพยายามสร้างผลงานหลากหลายเพื่อฝากฝังตำนาน หนึ่งในนั้นคือการทำงานร่วมกับ Tindrum อเจนซี่ที่เชี่ยวชาญการบันทึกและการนำเสนองานแสดงต่างๆ  Sakamoto บันทึกการแสดงสดเดี่ยวเปียโน 40 นาทีผ่าน VR เพื่อให้คนรุ่นหลังได้ดูการแสดงสดที่เสมือนว่าเขามานั่งเล่นเปียโนอยู่บนเวทีจริงๆ ผ่านหนัง VR ที่ชื่อว่า Kagami
 
